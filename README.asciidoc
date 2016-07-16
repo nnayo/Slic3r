@@ -1,0 +1,6 @@
+== Slic3r for u-delta
+
+this is the Slic3r configuration for u-delta 3D printer.
+
+by default, Slic3r uses the directory ~/.Slic3r
+so, replace it by a link to this directory
